@@ -1,0 +1,13 @@
+<resources>
+    <string name="fill_in_message">Must fill in at least one field!</string>
+    <string name="login_missing_message">Username and password required!</string>
+    <string name="app_name">Notes</string>
+    <string name="password">Password</string>
+    <string name="new_note">New</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="save">Save</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+</resources>
